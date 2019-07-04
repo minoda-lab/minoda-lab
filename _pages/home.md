@@ -1,12 +1,14 @@
 ---
-title: "Allan Lab - Home"
+title: "Minoda Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Epigenome Techology Exploration Unit at RIKEN IMS"
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a collaborative research group at the [RIKEN Center for Integrative Medical Sciences](https://www.ims.riken.jp/english/). Our mission is to understand ageing from a molecular point of view, in particular to understand what kind of epigenomic/chromatin changes take place during ageing, the findings of which we hope will eventually result in ‘healthy longevity’, towards a society where people can live healthier longer. This is increasingly important in the world where the trend is people are living longer but the number of young people and caretakers are not catching up.
+
+Although every single cell in our body carries the same genomic information encoded by the DNA (the genome), there are at least 300 different cell types in a human body as we know today, which carry out different functions as well as taking different shapes. These differences are due to each one of them carrying a different epigenome, which include DNA methylation and histone modifications that are essentially regulating transcriptional states. In other words, one can also say a cell type is defined by its epigenome and is necessary to carry out cell type-specific function. When epigenome of a cell is compromised in any way, cell type-specific functions may be compromised, which may result in a loss of function at the organ level. Consistently, many disease cells have been shown to have altered epigenomes. We aim to understand how the epigenomes and therefore the transcriptomes are altered during ageing or in ageing mutant models.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -55,14 +57,13 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 
 
 
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want do be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
+To this end, we develop novel single-cell genomics technologies, bioinformatics tools, and perform epigenomics studies in various collaborations (see [Research](research)).
 
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at the [RIKEN Yokohama](https://www.yokohama.riken.jp/english/), the site of the Japanese team of the Human Genome Project, the FANTOM project, and the developmnent of CAGE technologies. Technology development and adopting cutting-edge techniques remains a focus of our research. RIKEN has many internal, domestic, and internation collaborations, including large projects.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for passionate new interns, PhD students and Postdocs to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
-
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+We are grateful for funding for RIKEN from [MEXT](http://www.mext.go.jp/en/) and external grants from [KAKENHI](https://www.jsps.go.jp/english/e-grants/) and the Scientific Research on Innovative Areas Project [Principles of pluripoten stem cells underlying plant vitality](http://www.plant-stem-cells.jp/en/)
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
