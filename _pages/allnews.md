@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Epigenome Technology Exploration Unit at RIKEN IMS."
 sitemap: false
 permalink: /allnews.html
 ---
