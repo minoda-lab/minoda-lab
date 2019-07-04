@@ -3,10 +3,10 @@
   duration: Dates
   info: PhD student hosted from the University of Tsukuba, conducting research using ATAC-Seq on bone samples, now at the University of Michigan as a Postdoctoral fellow
   email: name@domain
-  number_educ: 3
-  education1: University of Tsukuba, Tsukuba, Ibaraki (PhD)
-  education2: University of Tsukuba: Tsukuba, Ibaraki (Master)
-  education3: Dalian Polytechnic University: Dalian, Liaoning (Bachelor)
+  number_educ: 2
+  education1: University of Tsukuba
+  education2: Dalian Polytechnic University
+  education3: 
   education4:
 
 - name: Lusy Handoko
